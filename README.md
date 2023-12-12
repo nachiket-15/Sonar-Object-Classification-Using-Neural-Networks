@@ -54,7 +54,6 @@ In this project, we've implemented a neural network from scratch to perform the 
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/nachiket-15/Sonar-Object-Classification-Using-Neural-Networks.git
-   cd Sonar-Object-Classification-Using-Neural-Networks
    ```
 2. **Run the Jupyter Notebook or Python Script:**
    ```bash
